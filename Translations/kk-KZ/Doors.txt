@@ -1,6 +1,6 @@
 <color=green>АШЫҚ</color>
 <color=#07A2FF>ЖАБЫҚ</color>
-<color=orange>MOVING</color>
+<color=orange>ҚОЗҒАЛУ</color>
 <color=red>ЖАБЫҚ</color>
 <color=red>ҚАТЕ</color>
 <color=red>ҚРЕТУГЕ БАС ТАРТЫЛДЫ</color>
