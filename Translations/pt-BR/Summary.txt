@@ -3,9 +3,9 @@ VITÓRIA DOS SCPs
 VITÓRIA DA FUNDAÇÃO
 VITÓRIA DA INSURGÊNCIA
 EMPATE
-A presença da Fundação foi exterminada. Agentes aguardando novas ordens.
-Todas as ameaças à segurança foram neutralizadas. Site-02 está seguro novamente.
 Os indivíduos fugitivos invadiram a instalação. A resposta de emergência foi codificada.
+Todas as ameaças à segurança foram neutralizadas. Site-02 está seguro novamente.
+A presença da Fundação foi exterminada. Agentes aguardando novas ordens.
 Sítio-02 está sob certo controle, todavia com um preço. O vencedor é indeterminado.
 [summary_d_escaped] Classe-d(s) escaparam
 [summary_s_escaped] Cientista(s) sobreviveram

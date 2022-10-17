@@ -1,0 +1,56 @@
+ZOOM [amount]x
+NÍVEL DE ACESSO [tier]
+EXP [current] / [next]
+NÍVEL MÁXIMO ADQUIRIDO
+SEM CÂMERA
+IR PARA: [camera] ([cost])
+ENERGIA AUXILIAR INSUFICIENTE
+ETA: [time] segundos
+NÍVEL MAIOR REQUIRIDO
+CÂMERA INVÁLIDA
+ACESSO DE PORTA NEGADO
+ABRIR PORTA ([cost])
+FECHAR PORTA ([cost])
+TRANCAR PORTA ([cost])
+DESTRANCAR PORTA
+TRANCAR PORTA EM RECARGA
+PODER AUXILIAR
+VOCÊ ESTA SENDO ATACADO!
+LIBERAR TODAS AS PORTAS ([num] total)
+ABRIR MAPA DA INSTALAÇÃO
+FECHAR
+ZONA DE CONTENÇÃO LEVE
+ZONA DE CONTENÇÃO PESADA
+ZONA DE ENTRADA
+ZONA DE SUPERFÍCIE
+BLECAUTE ([cost])
+BLECAUTE INDISPONÍVEL NESTA SALA
+LIMITE DE BLECAUTE SIMULTÂNEOS ATINGINDO
+BLECAUTE DE SALA EM COOLDOWN
+ENVIAR ELEVATOR ([cost])
+CONFINAMENTO ([cost])
+CONFINAMENTO EM RECARGA
+SEM PORTAS DISPONÍVEIS PARA CONFINAMENTO
+MARCAR LOCAL ([cost])
+LIMITE DE MARCAÇÕES ATINGIDA
+TROCA DE CÂMERA FALHADA
+SINAL PERDIDO
+RECONECTANDO (ETA: [time]s)
+DISPARAR PORTÃO TESLA ([cost])
+ATIVAÇÃO DE PORTÃO TESLA EM RECARGA
+$Nível de acesso [tier]$ - DESBLOQUEADO
+$PODER AUXILIAR$ limite aumentado para $[limit]$.
+$BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas,
+$BLECAUTE$ capacidade aumentou para $[number]$ salas.
+$CONFINAMENTO$ disponível - pressione $[key]$ para temporáriamente trancar todas as portas em uma sala.
++[amount] EXP - Comando de Admin
++[amount] EXP - Assistência de elminação de Classe-D
++[amount] EXP - Assistência de elminação de Cientista
++[amount] EXP - Assistência de elminação de Guarda
++[amount] EXP - Assistência de elminação de Nine-Tailed Fox
++[amount] EXP - Assistência de elminação de Insurgente do Caos
++[amount] EXP - Assistência de elminação de Humano
++[amount] EXP - Testemunhou eliminação de aliado.
++[amount] EXP - Assistência de perseguiçao de aliado.
++[amount] EXP - Proteção de aliado(s)
++[amount] EXP - Preveniu uso da Micro H.I.D

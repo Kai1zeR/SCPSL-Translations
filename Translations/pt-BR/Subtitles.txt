@@ -1,11 +1,11 @@
-A Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados à prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
+Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados à prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
 Aguardando re-contenção de: [count] entidades SCP.
 Aguardando re-contenção de: 1 entidade SCP.
-Ameaça substancial à segurança permanece dentro da instalação - Prosseguir com cautela.
+Ameaça substancial à segurança permanece dentro da instalação - Exercer cautela.
 neutralizado com sucesso. Causa de neutralização não especificada.
 neutralizado por SCP-[scp].
 neutralizado com sucesso pelo Sistema de Segurança Automático.
-neutralização com sucesso pela Ogiva Nuclear Alfa
+neutralizado com sucesso pela Ogiva Nuclear Alfa
 contido com sucesso por indivíduo do departamento científico.
 contido com sucesso por sujeito Classe-D.
 contido com sucesso pela Insurgência do Caos.

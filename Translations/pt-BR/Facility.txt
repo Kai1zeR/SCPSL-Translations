@@ -41,4 +41,8 @@ RODADA ESTÁ <color=#FF5050>PAUSADO</color>
 REDUÇÃO DA SENS. MIRANDO
 Pressione [key] para cancelar o arremesso.
 Alternar MIRAR
-Silenciar o bate-papo do espectador
+Silenciar o bate-papo de espectador
+Ativar Redução de Ruído (recomendado)
+Autoático (Padrão)
+Nenhum Microfone Detectado!
+DISPOSITIVO DE ENTRADA
